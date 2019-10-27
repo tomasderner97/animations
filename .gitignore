@@ -107,3 +107,7 @@ venv.bak/
 *.mp4
 *.webm
 *.png
+
+# tex garbage
+*.dvi
+*.aux
