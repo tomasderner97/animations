@@ -1,0 +1,6 @@
+file 'C:/Users/tomas/Repositories/animations/optics/video_3/media/videos/video_3/720p30/partial_movie_files/EllipseToCircleToLine/00000.mp4'
+file 'C:/Users/tomas/Repositories/animations/optics/video_3/media/videos/video_3/720p30/partial_movie_files/EllipseToCircleToLine/00001.mp4'
+file 'C:/Users/tomas/Repositories/animations/optics/video_3/media/videos/video_3/720p30/partial_movie_files/EllipseToCircleToLine/00002.mp4'
+file 'C:/Users/tomas/Repositories/animations/optics/video_3/media/videos/video_3/720p30/partial_movie_files/EllipseToCircleToLine/00003.mp4'
+file 'C:/Users/tomas/Repositories/animations/optics/video_3/media/videos/video_3/720p30/partial_movie_files/EllipseToCircleToLine/00004.mp4'
+file 'C:/Users/tomas/Repositories/animations/optics/video_3/media/videos/video_3/720p30/partial_movie_files/EllipseToCircleToLine/00005.mp4'
